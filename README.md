@@ -16,13 +16,13 @@ Side-scroller 2D game, created in the Flixel engine and produced under 48hs at t
 Lead Programmer, Team Leader
 
 ####Alexandre 'Leef' Campos
-Lead Music Composer, Concept Artist Game Designer
+Lead Music Composer, Concept Artist, Lead Game Designer
 
 ####Amanda Rigitano
 Lead Concept Artist, Sprite Designer
 
 ####Guilherme 'Degoi' Diomede
-Lead Game Designer, Production Assistant, Beta-tester
+Game Designer, Production Assistant, Beta-tester
 
 ####Daniel 'skyshot' Silveira
 Lead Animator, Concept Artist, Sprite Designer
